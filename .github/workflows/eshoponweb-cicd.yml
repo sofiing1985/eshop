@@ -9,7 +9,7 @@ env:
   LOCATION: eastus
   TEMPLATE-FILE: infra/webapp.bicep
   SUBSCRIPTION-ID: 6feacd94-d8e2-4ad4-86f5-2906ca79635d
-  WEBAPP-NAME: eshoponweb-webapp-celvory
+  WEBAPP-NAME: eshoponweb-webapp-celvoryy
 
 
 jobs:
